@@ -59,6 +59,8 @@ footer {
 
 .set {
   margin: 10% auto;
+  display: relative;
+  float : left;
 }
 
 .game-over {
