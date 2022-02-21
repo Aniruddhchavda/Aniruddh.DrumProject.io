@@ -8,11 +8,10 @@ body {
 
 
 h1 {
-  font-size: 4vh;
+  font-size: 6vh;
   color: #DBEDF3;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
-
 }
 
 footer {
@@ -95,4 +94,6 @@ footer {
   height: 100;
   text-align: center;
   background-color: white;
+  margin-bottom: 10px;
+  margin-right: 5px;
 }
